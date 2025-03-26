@@ -4,7 +4,7 @@
 **Luuuuww/Luuuuww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Todavía no trabajo pero si he trabajado en panaderías y casas de limpieza.
+- 🔭 Todavía no trabajo de esto pero si me gusta hacer cosas del estilo wow.
 - 🌱 Estoy aprendiendo a desarrollar cosas tecnologicas, pj paginas web, app, softwares, etc.
 - 👯 No colaboro con nadie, pero podría.
 - 🤔 No busco ayuda para nada. Perdón GitHub-
