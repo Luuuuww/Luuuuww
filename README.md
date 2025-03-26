@@ -1,16 +1,14 @@
-## Hi there 👋
+## Holis 👋
 
 <!--
 **Luuuuww/Luuuuww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 Todavía no trabajo pero si he trabajado en panaderías y casas de limpieza.
+- 🌱 Estoy aprendiendo a desarrollar cosas tecnologicas, pj paginas web, app, softwares, etc.
+- 👯 No colaboro con nadie, pero podría.
+- 🤔 No busco ayuda para nada. Perdón GitHub-
+- 💬 Utilizo mucho Instagram y X, cualquier cosa me hablan x ahi ahre.
+- 📫 Contesto al buzón de mensajes cada tanto igual.
+- 😄 Soy mujer, Lucía es mi nombre.
+- ⚡ Fun fact: Me gusta el Rubius qsy.
